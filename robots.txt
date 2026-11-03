@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://xn----htbqmcbct.xn--p1ai/sitemap.xml
+Sitemap: https://xn----htbqmcbct.xn--p1ai/image-sitemap.xml
